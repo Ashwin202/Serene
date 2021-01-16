@@ -1,0 +1,17 @@
+    SERENE
+---------------------------------------------------------
+1st Step: Extract file.
+2nd Step: Copy all the content of the folder.
+3rd Step: Paste it on wamp64\www
+4th Step: Open a browser and go to URL "http://localhost/phpmyadmin/"
+5th Step: Create a database naming "contactform","hotel","royal_hotel" and then import respective SQL file
+form the "Database" folder.
+6th Step: Click on go. 
+
+After Creating the database,
+7th Step: open a browser and go to "localhost".
+
+    Admin Details
+<-------------------->
+ Admin email: admin@gmail.com
+ Password: admin@123
